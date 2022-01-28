@@ -20,14 +20,14 @@ mysql:
   host: "106.54.119.58"
   port: 3306
   user: "root"
-  password: "xc456789110"
+  password: "******"
   dbname: "bluebell"
   max_open_conns: 20
   max_idle_conns: 10
 
 redis:
   host: "106.54.119.58"
-  password: "xuchuan"
+  password: "*****"
   port: "6379"
   dbname: 0
   pool_size: 100
